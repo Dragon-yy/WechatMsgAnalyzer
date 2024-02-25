@@ -37,7 +37,7 @@ WechatMsgAnalyzer 是一个用于分析聊天记录并生成报告的命令行�
 ```
 
 ## 使用
-****1. 使用[WeChatMsg](https://github.com/LC044/WeChatMsg)项目导出微信聊天记录到excel文件,筛选你想要生成报告的聊天对象保存到新excel中，例如test.xlsx,excel包含以下字段(WeChatMsg导出文件即包含这些字段)：**
+**1. 使用[WeChatMsg](https://github.com/LC044/WeChatMsg)项目导出微信聊天记录到excel文件,筛选你想要生成报告的聊天对象保存到新excel中，例如test.xlsx,excel包含以下字段(WeChatMsg导出文件即包含这些字段)：**
 - localId: 通常指的是记录在本地数据库中的唯一标识符，用于区分每条消息或通讯记录。
 - TalkerId: 可能指的是对话的另一方的标识符，即消息的接收者或发送者的ID。
 - Type: 表示消息的类型，这可能包括文本、图片、视频等。
